@@ -1,6 +1,8 @@
-# Se crean dos vectores
+👀👀👀👀
+# Se crean dos vectores (Variables)
 Facturacion <-c(10000,11500,12000,13300,13800,12900)
 Mes-<c(1,2,3,4,5,6)
 # Mostrar el contenido de los Vectores
 Facturación
 Mes
+# Mostrar gráfico que verifique la existencia de linealidad entre ambas variables
